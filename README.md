@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1kQ9ikoqa8upS55tvfencPZ5_oUCKtuB_?usp=sha
 
 
     
-3. Extract Article content for topic modelling
+3. Extract article contents for topic modelling (already have scrapped articles which will be used in this exercise. refer point 1)
 
 4. Use WordNet Lemmatizer to lemmatize documents
 
@@ -36,7 +36,7 @@ https://drive.google.com/drive/folders/1kQ9ikoqa8upS55tvfencPZ5_oUCKtuB_?usp=sha
   * Output2 gives us the dominant topic by finding the topic that share maximum percentage of a document among the selected topics. That is to say, some documents are associated       with multiple topics and have certain contribution in them and the output here givess the topic to which document is most associated with. The output contains features,      
     namely, Doc_num, Dominant_Topic, Perc_Contribution, Topic_Keywords, orig_contents.
 
-Output files as per point #10 can be found at: 
+Output files can be found at: 
 https://drive.google.com/drive/folders/1HMrgInnud8tbd1yNRGj9Tg5jyow67qYl?usp=sharing 
 
 
