@@ -7,8 +7,8 @@ Following steps are used in the script:
 
 2. Filter the scrapped data to get before incidence, during incidence and after incidence data subsets-
 
-* Zomato Data- During Incidence
-* Zomato_data_after_incidence
+** Zomato Data- During Incidence
+** Zomato_data_after_incidence
 
 
 References:
